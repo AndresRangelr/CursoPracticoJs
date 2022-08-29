@@ -1,0 +1,267 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+    margin: 30px;
+}
+
+.Section1 {
+    width: 100%;
+    max-height: 210px;
+}
+
+.Section2 {
+    width: 100%;
+    height: 280px;
+}
+
+.ContenedorCuadro {
+    display: inline-block;
+    background-color: lightpink;
+    height: 190px;
+    width: 260px;
+    border-radius: 5px;
+    position: relative;
+    top: -60px;
+    margin-left: 236px;
+}
+
+.ContenedorTriangulo {
+    display: inline-block;
+    background-color: lightskyblue;
+    height: 190px;
+    width: 260px;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+
+.ContenedorTriangulo2 {
+    display: inline-block;
+    background-color: lightgreen;
+    height: 190px;
+    width: 260px;
+    border-radius: 5px;
+    position: relative;
+    top: -50px;
+    margin-left: 20px;
+    
+
+}
+
+.SquareTitle {
+    text-align: center;
+    margin: 15px;
+
+}
+
+.SquareLabel {
+    position: relative;
+    left: 50px;
+    top: 20px;
+
+}
+
+.SquareInput {
+ position: relative;
+ left: 44px;
+ top: 25px;   
+}
+
+.SquareButton1 {
+
+    position: relative;
+    top: 45px;
+    right: 35px;  
+}
+
+.SquareButton2 {
+    position: relative;
+    top: 26px;
+    left: 24px;
+
+}
+
+.TitleTriangle {
+    text-align: center;
+    margin: 15px;
+
+}
+
+.Label1 {
+    position: relative;
+    left: 40px;
+    top: 0px;
+
+}
+
+.Label2 {
+    display: block;
+    position: relative;
+    left: 40px;
+    top: 10px;
+
+}
+
+.Label3 {
+    display: block;
+    position: relative;
+    left: 40px;
+    top: 19px;
+
+}
+
+.Input1 {
+    position:relative;
+    top: 5px;
+    left: 45px;
+}
+
+.Input2 {
+    position: relative;
+    top: 15px;
+    left: 45px;
+
+
+}
+
+.Input3 {
+    position: relative;
+    top: 21px;
+    left: 45px;
+}
+
+.ButtonTri {
+    position: relative;
+    top: 25px;
+    left: 74px;
+}
+
+
+.TituloTriangulo {
+    text-align: center;
+    margin: 15px;
+}
+
+.High {
+    display: block;
+    position: relative;
+    left: 50px;
+
+}
+
+.Base {
+    display: block;
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+
+.HighInput {
+    position: relative;
+    top: 5px;
+    left: 40px;
+}
+
+.BaseInput {
+    position: relative;
+    top: 15px;
+    left: 40px;
+}
+
+.ButtonTria {
+    position: relative;
+    top: 40px;
+    right: 90px;
+}
+
+.ContenedorCircle {
+
+    display: inline-block;
+    background-color: lightyellow;
+    height: 190px;
+    width: 260px;
+    border-radius: 5px;
+    position: relative;
+    left: 390px;
+}
+
+.TituloArea {
+    text-align: center;
+    margin: 10px;
+}
+
+.Ratio {
+    position: relative;
+    left: 65px;
+    top: 15px;
+    
+}
+
+.InputCircle {
+    position: relative;
+    left: 42px;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    top: 12px;
+
+
+}
+
+.ButtonCircle2 {
+    position: relative;
+    margin-top: 20px;
+    left: 85px;
+}
+
+
+.ContenedorPerimetro {
+    
+
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    height: 190px;
+    width: 260px;
+    border-radius: 5px;
+    position: relative;
+    left: 390px;
+    margin-left: 5px;
+    
+}
+
+.TituloPerimetro {
+    text-align: center;
+    margin: 10px;
+}
+
+.LabelCircle2 {
+    position: relative;
+    left: 65px;
+    top: 15px;
+    
+}
+
+.InputCircle2 {
+    position: relative;
+    left: 42px;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    top: 12px;
+
+
+}
+
+.ButtonCircle3 {
+    position: relative;
+    margin-top: 20px;
+    left: 29px;
+}
